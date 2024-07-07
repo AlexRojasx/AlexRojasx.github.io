@@ -1,6 +1,6 @@
 <h1>Hi, I'm Alex! </h1>
 
-(this is a work in progress view my profile at https://github.com/AlexRojasx
+(this is a work in progress view my profile at https://github.com/AlexRojasx)
 
   [Profile]([https://github.com/AlexRojasx])
 <h2>PCB Design Projects:</h2>
